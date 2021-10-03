@@ -2,7 +2,7 @@
   
   <!-- Quadro de contagem -->
  <div align= "center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=kellyngton&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=ae23ba"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=kellyngton&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=ae23ba&border_radius=25%"/>
   <a href="https://github.com/kellyngton">
   
 <div style="display: inline_block"><br>
