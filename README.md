@@ -1,7 +1,7 @@
 <h1>Olá, sou kellyngton luiz<h1>
 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellyngton&show_icons=true&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellyngton&show_icons=true&theme=dark)
 
 
   <div align="center">
