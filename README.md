@@ -3,7 +3,10 @@
   <!-- Quadro de contagem -->
  <div align= "justify">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=kellyngton&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=d143d1&border_radius=25%&icon_color=039136"/>
-  <a href="https://github.com/kellyngton"></a>
+  
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+
+  <a href="https://github.com/kellyngton"></a> -->
   </div>
   
   
